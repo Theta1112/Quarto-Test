@@ -1,0 +1,32 @@
+---
+title: "Exercise for class"
+author: "Sean Koh"
+date: "November 2024"
+format: 
+  revealjs: 
+    theme: simple
+    slideNumber: true
+    transition: slide
+    navigationMode: linear
+    controls: true
+    progress: true
+runtime: shiny
+---
+
+
+## My Slide 1
+### I wonder what this does.
+To run quarto, you ned to do quarto preview xxxqmd
+
+## My graph
+```{r, echo = TRUE}
+knitr::include_graphics("04-Sean-Hexagons.jpg")
+```
+
+## Objectives
+- add an interactive map using leaflet
+- add some references via a .bib file
+- push it on github
+
+
+

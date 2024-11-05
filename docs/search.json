@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "exercise.html#my-slide-1",
+    "href": "exercise.html#my-slide-1",
+    "title": "Exercise for class",
+    "section": "My Slide 1",
+    "text": "My Slide 1\nI wonder what this does.\nTo run quarto, you ned to do quarto preview xxxqmd"
+  },
+  {
+    "objectID": "exercise.html#my-graph",
+    "href": "exercise.html#my-graph",
+    "title": "Exercise for class",
+    "section": "My graph",
+    "text": "My graph\n\nknitr::include_graphics(\"04-Sean-Hexagons.jpg\")"
+  },
+  {
+    "objectID": "exercise.html#objectives",
+    "href": "exercise.html#objectives",
+    "title": "Exercise for class",
+    "section": "Objectives",
+    "text": "Objectives\n\nadd an interactive map using leaflet\nadd some references via a .bib file\npush it on github"
+  }
+]
